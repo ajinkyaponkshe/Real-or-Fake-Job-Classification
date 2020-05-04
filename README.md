@@ -34,5 +34,5 @@ Total missing values in the dataset are 27.84%
 ## Final Model
 
 Best Model: XGBoost Classfier
-
+Measure: Auc-Roc
 Best Mean Cross Validation Score is 0.9577 Best Mean Cross Validation Score is {'learning_rate': 0.5, 'max_depth': 6, 'min_child_weight': 1, 'n_estimators': 100, 'subsample': 0.7} Train score is 0.9688 Test score is 0.9666
