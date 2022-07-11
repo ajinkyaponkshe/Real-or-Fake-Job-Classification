@@ -1,7 +1,7 @@
 # Real-or-Fake-Job-Classification
 
 ## Goal
-Classify Real or Fake job applications
+Classify Real or Fake job applications.
 
 ## Data Shape
 rows: 17880, columns: 17 
